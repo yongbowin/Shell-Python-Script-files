@@ -1,0 +1,3 @@
+dbpath=/home/wyb/soft/mongodb/data/db
+logpath=/home/wyb/soft/mongodb/data/log/mongodb.log
+fork=true
