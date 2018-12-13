@@ -1,5 +1,5 @@
-# Shell-Python-Script-files
-A few tricks
+# Intro
+shell/python in work
 
 Project Organization
 ------------
